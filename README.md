@@ -1,4 +1,4 @@
-# deneme_foraztek
+# MiniProjectWithFlutter
 
 A new Flutter application.
 
